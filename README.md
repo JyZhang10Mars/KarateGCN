@@ -1,2 +1,2 @@
 # KarateGCN
-Implementation of GCN
+Implementation to GCN with DGL
